@@ -1,13 +1,9 @@
 ---
-title: 'Class Preparations'
+title: 'Welcome'
 published: true
 ---
 
-### Jan 26th Class Preparations
+### Welcome
 
-##### Required Readings
-[Persona Empathy Mapping](http://www.cooper.com/journal/2014/05/persona-empathy-mapping)
-
-[Required Reading Quiz](https://canvas.sfu.ca/courses/25492/quizzes/34783?classes=btn,btn-primary)
-
-Weekly quizzes are due by 10:00am the day of class. After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/25492/discussion_topics/440791) before midnight, January 26th.
+##### Corning Painted Post Student Council
+Welcome to the homepage. This site is currently not expected to finalized until Sept. 15th
