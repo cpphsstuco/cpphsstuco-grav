@@ -15,14 +15,16 @@ hidegitrepoeditlink: false
 ---
 #### Rules and Expectations
 
-* Rules sheet
+* [Rules sheet](/resources/stucorules.pdf)
 
-* Member Expectations
+* [Member Expectations](/resources/stucoexpectations.pdf)
 
 #### After School meetings
 
-* [Example Agenda](http:/example.com)
+* [Example Agenda](/resources/sample-agenda.docx)
 
-* [Blank Minutes Sheet](http://example.com)
+* [Blank Minutes Sheet](/resources/sample-minutes.docx)
 
-* [Past Meeting Minutes](http://example.com)
+* [Past Meeting Minutes](/resources/minutes)
+
+* [Summary of Robert's Rules](/resources/roberts-rules.pdf)
