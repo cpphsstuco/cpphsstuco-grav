@@ -21,4 +21,4 @@ An All Day Meeting is currently scheduled for September 21st.
 More information to follow in this post.
 
 **Current Agenda:**
-[All Day Meeting Agenda](https://cpphsstuco.club/resources)
+[All Day Meeting Agenda](/resources/all-day-meeting-agenda)
