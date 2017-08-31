@@ -16,4 +16,4 @@ hidegitrepoeditlink: false
 ### Rules and Expectations
 
 ### All Day Meeting Agenda
-
+[Tentative Agenda](/resources/all-day-meeting-agenda)
