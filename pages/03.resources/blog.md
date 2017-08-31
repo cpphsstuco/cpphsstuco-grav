@@ -1,7 +1,8 @@
 ---
-title: 'Sept-21-Agenda'
+title: Resources
 published: false
 ---
+
 ### Meeting Agenda All Day Meeting
 ##### All Day Meeting
 
