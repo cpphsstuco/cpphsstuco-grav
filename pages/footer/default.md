@@ -5,4 +5,5 @@ visible: false
 ---
 
 Corning Painted Post Student Council 2017-2018
-```Copyright jakejakejake.com```
+
+Hosted and created by ```jakejakejake.com```
