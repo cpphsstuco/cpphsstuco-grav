@@ -1,6 +1,6 @@
 ---
 title: About
-published: true
+published: false
 ---
 
 ##### Corning Painted Post High School Student Council

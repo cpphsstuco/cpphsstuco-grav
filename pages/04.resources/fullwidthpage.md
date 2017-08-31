@@ -13,7 +13,16 @@ content:
     pagination: '1'
 hidegitrepoeditlink: false
 ---
-### Rules and Expectations
+#### Rules and Expectations
 
-### All Day Meeting Agenda
-[Tentative Agenda](/resources/all-day-meeting-agenda)
+* Rules sheet
+
+* Member Expectations
+
+#### After School meetings
+
+* [Example Agenda](http:/example.com)
+
+* [Blank Minutes Sheet](http://example.com)
+
+* [Past Meeting Minutes](http://example.com)
