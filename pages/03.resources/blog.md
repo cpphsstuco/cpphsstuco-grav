@@ -1,6 +1,14 @@
 ---
-title: Resources
+title: 'All Day Meeting Agenda'
 published: false
+content:
+    items: '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
+hidegitrepoeditlink: false
 ---
 
 ### Meeting Agenda All Day Meeting
