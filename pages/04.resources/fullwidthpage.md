@@ -1,9 +1,12 @@
 ---
 title: 'All Day Meeting Agenda'
 published: false
+taxonomy:
+    author:
+        - 'Jake Johnson'
 content:
     items: '@self.children'
-    limit: 5
+    limit: '5'
     order:
         by: date
         dir: desc
