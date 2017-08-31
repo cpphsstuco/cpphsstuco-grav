@@ -1,6 +1,6 @@
 ---
 title: 'All Day Meeting Agenda'
-published: false
+published: true
 taxonomy:
     author:
         - 'Jake Johnson'
