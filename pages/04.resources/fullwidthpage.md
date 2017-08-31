@@ -28,3 +28,5 @@ hidegitrepoeditlink: false
 * [Past Meeting Minutes](/resources/minutes)
 
 * [Summary of Robert's Rules](/resources/roberts-rules.pdf)
+
+* [Art of Writing Minutes](/resources/art-of-writing-minutes.pdf)
