@@ -29,9 +29,9 @@ content:
 
 #### After School meetings
 
-* [Example Agenda](/resources/sample-agenda.docx)
+* [Example Agenda](/resources/raws/sample-agenda.docx)
 
-* [Blank Minutes Sheet](/resources/sample-minutes.docx)
+* [Blank Minutes Sheet](/resources/raws/sample-minutes.docx)
 
 * [Past Meeting Minutes](/resources/minutes)
 
