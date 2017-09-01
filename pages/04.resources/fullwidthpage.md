@@ -23,9 +23,9 @@ content:
 
 #### Rules and Expectations
 
-* [Rules sheet](/resources/stucorules.pdf)
+* [Rules sheet](/resources/rules.pdf)
 
-* [Member Expectations](/resources/stucoexpectations.pdf)
+* [Member Expectations](/resources/expectations.pdf)
 
 #### After School meetings
 
