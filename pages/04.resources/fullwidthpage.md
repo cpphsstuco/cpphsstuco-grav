@@ -1,9 +1,11 @@
 ---
-title: 'Resources'
+title: Resources
 published: true
 taxonomy:
     author:
         - 'Jake Johnson'
+hidepagetitle: false
+hidegitrepoeditlink: false
 content:
     items: '@self.children'
     limit: '5'
@@ -11,8 +13,13 @@ content:
         by: date
         dir: desc
     pagination: '1'
-hidegitrepoeditlink: false
 ---
+
+#### Information
+
+* [Constitution](/resources/constitution)
+
+* [Bylaws](resources/bylaws)
 #### Rules and Expectations
 
 * [Rules sheet](/resources/stucorules.pdf)
