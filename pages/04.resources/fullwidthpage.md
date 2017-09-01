@@ -19,7 +19,7 @@ content:
 
 * [Constitution](/resources/constitution)
 
-* [Bylaws](resources/bylaws)
+* [Bylaws](/resources/bylaws)
 
 #### Rules and Expectations
 
