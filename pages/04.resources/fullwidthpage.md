@@ -20,6 +20,7 @@ content:
 * [Constitution](/resources/constitution)
 
 * [Bylaws](resources/bylaws)
+
 #### Rules and Expectations
 
 * [Rules sheet](/resources/stucorules.pdf)
