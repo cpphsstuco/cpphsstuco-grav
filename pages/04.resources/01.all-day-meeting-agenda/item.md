@@ -1,7 +1,7 @@
 ---
 title: 'All Day Meeting Agenda'
 hidefrompostlist: false
-continue_link: true
+continue_link: false
 hidegitrepoeditlink: false
 ---
 
