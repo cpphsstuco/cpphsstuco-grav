@@ -5,6 +5,7 @@ continue_link: true
 hidegitrepoeditlink: false
 ---
 
+
 ### Tentative Schedule 8/31/2017
 
 7:55 - 8:05 **Assembly and Attendance**
