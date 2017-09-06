@@ -5,13 +5,12 @@ continue_link: true
 hidegitrepoeditlink: false
 ---
 
-
 ### Tentative Schedule 8/31/2017
 __This agenda is simply a guide and may not be adhered to strictly__
 
 7:55 - 8:05 Assembly and Attendance
 
-8:05 - 8:10 *Officer Introductions
+8:05 - 8:10 Officer Introductions
 
 8:10 - 8:20 Teambuilding / Get to know me
 
