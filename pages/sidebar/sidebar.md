@@ -4,4 +4,6 @@ published: false
 routable: false
 ---
 
-CPPHS Student Council Website
+Official CPPHS Student Council Website
+
+[Join Us](https://www.cpphsstuco.club/join)
