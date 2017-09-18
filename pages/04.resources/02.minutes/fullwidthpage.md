@@ -4,7 +4,7 @@ hidepagetitle: false
 hidegitrepoeditlink: false
 ---
 
-### Previous Minutes updated the Saturday after the meeting
+#### Previous Minutes updated the Saturday after the meeting
 
 Check this site for minutes of each meeting.
 
