@@ -6,6 +6,7 @@ hidegitrepoeditlink: false
 ---
 
 The minutes for the officer meeting on Sept. 13 where updated.
+
 View all for more info
 
 ===
