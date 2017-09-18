@@ -4,4 +4,4 @@ hidepagetitle: false
 hidegitrepoeditlink: false
 ---
 
-**Note:** No Previous minutes avaliable until after the all day meeting.
+[September 13th | Officer Meeting ](sept13-minutes.pdf)
