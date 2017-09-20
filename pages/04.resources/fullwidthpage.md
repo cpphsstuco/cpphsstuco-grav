@@ -24,7 +24,7 @@ content:
 
 * [Bylaws](/resources/bylaws)
 
-* [Branding](/resources/branding)
+* [Branding](/branding)
 
 #### Rules and Expectations
 
