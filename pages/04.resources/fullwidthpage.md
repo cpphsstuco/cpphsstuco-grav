@@ -6,6 +6,9 @@ taxonomy:
         - 'Jake Johnson'
 hidepagetitle: false
 hidegitrepoeditlink: false
+twitterenable: true
+twittercardoptions: summary
+facebookenable: true
 content:
     items: '@self.children'
     limit: '5'
@@ -20,6 +23,8 @@ content:
 * [Constitution](/resources/constitution)
 
 * [Bylaws](/resources/bylaws)
+
+* [Branding](/resources/branding)
 
 #### Rules and Expectations
 
