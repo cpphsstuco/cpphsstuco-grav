@@ -3,6 +3,9 @@ title: 'All Day Meeting Agenda'
 hidefrompostlist: false
 continue_link: false
 hidegitrepoeditlink: false
+twitterenable: true
+twittercardoptions: summary
+facebookenable: true
 ---
 
 ### Tentative Schedule 8/31/2017
@@ -24,4 +27,4 @@ __This agenda is simply a guide and may not be adhered to strictly__
 
 9:30 - 10:00 Committee meetings
 
-10:00 - 12:00 First official meeting
+10:00 - 12:00 First official meeting [Agenda](all-day-meeting.docx)
