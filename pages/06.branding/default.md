@@ -16,3 +16,5 @@ facebookenable: true
 [Big Logo PNG](/resources/raws/branding/big-logo.png)
 
 [Small Logo PNG](/resources/raws/branding/small-logo.png)
+
+[Futura PT](/resources/raws/branding/futurapt.zip)
