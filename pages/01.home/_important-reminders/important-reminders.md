@@ -4,4 +4,4 @@ published: true
 ---
 
 ** Important Reminders **  
-Bi Monthly meetings are required. See [Schedule](/schedule) for dates.
+Join our [Remind](https://www.remind.com/join/cpphsstuco). Text @cpphsstuco to 81010
