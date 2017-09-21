@@ -1,5 +1,6 @@
 ---
 title: 'Homecoming Court'
+icon: fa-exclamation
 hidefrompostlist: false
 continue_link: true
 hidegitrepoeditlink: false
