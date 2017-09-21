@@ -18,6 +18,10 @@ content:
     pagination: '1'
 ---
 
+### HOMECOMING PLAYLIST
+
+[Homecoming Playlist Submit](/resources/playlist)
+
 #### Information
 
 * [Constitution](/resources/constitution)
