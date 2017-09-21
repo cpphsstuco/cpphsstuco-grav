@@ -1,7 +1,7 @@
 ---
 title: 'Email Update 9/8/17'
 date: '08-09-2017 17:21'
-icon: email
+icon: envelope-open
 hidefrompostlist: false
 continue_link: true
 hidegitrepoeditlink: false
