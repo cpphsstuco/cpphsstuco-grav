@@ -1,9 +1,20 @@
 ---
-title: 'Welcome'
+title: Welcome
 published: true
 ---
 
-### Welcome
+The CPPHS STUCO website
 
-##### Corning Painted Post Student Council
-Welcome to the homepage. This site is currently not expected to finalized until Sept. 15th
+Officers:
+
+Jake Johnson - President
+
+Olivia Antenore - Vice President
+
+Hadiya Fuller - Vice President
+
+Jaedyne Filkins - Vice President
+
+Sadie Sullivan - Secretary
+
+Sunneyah Goins - Treasurer
