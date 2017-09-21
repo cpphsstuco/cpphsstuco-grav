@@ -1,9 +1,14 @@
 ---
 title: 'All Day Meeting'
-date: 08/31/2017
 published: true
+date: '31-08-2017 00:00'
+hidefrompostlist: false
+continue_link: true
+hidegitrepoeditlink: false
+twitterenable: true
+twittercardoptions: summary
+facebookenable: true
 ---
-
 
 ##### September 21st 2017
 
