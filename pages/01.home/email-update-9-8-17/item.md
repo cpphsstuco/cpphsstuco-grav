@@ -1,9 +1,13 @@
 ---
 title: 'Email Update 9/8/17'
 date: '08-09-2017 17:21'
+icon: email
 hidefrompostlist: false
 continue_link: true
 hidegitrepoeditlink: false
+twitterenable: true
+twittercardoptions: summary
+facebookenable: true
 ---
 
 ###### Email Preview
