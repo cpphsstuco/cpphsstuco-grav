@@ -4,8 +4,13 @@ icon: envelope
 hidefrompostlist: false
 continue_link: true
 hidegitrepoeditlink: false
+googletitle: 'Email Update 9/22/17'
+googledesc: 'View the CPPHS email sent 9/22'
 twitterenable: true
-twittercardoptions: summary
+twittercardoptions: summary_large_image
+twittershareimg: /resources/raws/branding/teaser2.png
+twittertitle: 'Email Update | CPPHS STUCO'
+twitterdescription: 'View the CPPHS email sent 9/22'
 facebookenable: true
 ---
 
