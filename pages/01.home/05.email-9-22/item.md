@@ -43,14 +43,15 @@ Spirit Week is Oct 2 - Oct 6
 
 	Friday - Color Wars
 
+For the color wars:
 
-    Seniors - Black
+    * Seniors - Black
     
-    Juniors - Gold
+    * Juniors - Gold
     
-    Sophomores - Silver
+    * Sophomores - Silver
     
-    Freshmen - White
+    * Freshmen - White
     
 Make sure you participate in the spirit week!
 
