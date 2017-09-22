@@ -1,5 +1,6 @@
 ---
-title: 'email 7-22'
+title: 'email 9-22'
+icon: envelope
 hidefrompostlist: false
 continue_link: true
 hidegitrepoeditlink: false
@@ -7,6 +8,11 @@ twitterenable: true
 twittercardoptions: summary
 facebookenable: true
 ---
+
+Hi,
+This is an update after our extremely successful all day meeting yesterday.
+
+===
 
 Hi,
 This is an update after our extremely successful all day meeting yesterday.
