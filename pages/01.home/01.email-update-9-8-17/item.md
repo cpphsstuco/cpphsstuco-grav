@@ -11,9 +11,6 @@ facebookenable: true
 ---
 
 ###### Email Preview
-
-View the email sent 9/8/17 at 3:00pm
-
 ===
 
 Hi,
