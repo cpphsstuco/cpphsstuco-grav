@@ -33,15 +33,16 @@ Lot's was decided during this all day meeting, here are some dates worth noting:
 
 Spirit Week is Oct 2 - Oct 6
 
-Monday - Tourist Day
+	Monday - Tourist Day
 
-Tuesday - Day of Colors / Rainbow Day
+	Tuesday - Day of Colors / Rainbow Day
 
-Wednesday - 70s vs 90s
+	Wednesday - 70s vs 90s
 
-Thursday - Famous Duos / Groups
+	Thursday - Famous Duos / Groups
 
-Friday - Color Wars
+	Friday - Color Wars
+
 
     Seniors - Black
     
