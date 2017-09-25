@@ -1,6 +1,12 @@
 ---
 title: About
 published: false
+hidepagetitle: false
+hidegitrepoeditlink: false
+googledesc: 'Corning Painted Post High School Student Council is a Student Council based in Corning, NY.'
+twitterenable: true
+twittercardoptions: summary
+facebookenable: true
 ---
 
 ##### Corning Painted Post High School Student Council
