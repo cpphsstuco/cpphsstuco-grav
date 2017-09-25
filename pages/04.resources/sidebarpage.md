@@ -18,7 +18,9 @@ content:
     pagination: '1'
 ---
 
-### HOMECOMING PLAYLIST
+### HOMECOMING
+
+[Court Petition](https://www.cpphsstuco.club/resources/petition.pdf)
 
 [Homecoming Playlist Submit](/resources/playlist)
 
