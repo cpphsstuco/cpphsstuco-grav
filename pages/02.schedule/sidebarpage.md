@@ -1,6 +1,12 @@
 ---
 title: Schedule
 published: true
+hidepagetitle: false
+hidegitrepoeditlink: false
+googledesc: 'View the Calendar for the CPPHS STUCO'
+twitterenable: true
+twittercardoptions: summary
+facebookenable: true
 ---
 
 #### Member Meetings
