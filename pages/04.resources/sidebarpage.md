@@ -6,6 +6,7 @@ taxonomy:
         - 'Jake Johnson'
 hidepagetitle: false
 hidegitrepoeditlink: false
+googledesc: 'Resources for the Corning Painted Post High School Student Council'
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true
@@ -21,6 +22,10 @@ content:
 ### HOMECOMING
 
 [Court Petition](https://www.cpphsstuco.club/resources/petition.pdf)
+
+* Person nominated for court must be a senior
+* One (1) week of petitioning, ending on September 29
+* One (1) week of fundraising for a cause, ending October 6th
 
 [Homecoming Playlist Submit](/resources/playlist)
 
