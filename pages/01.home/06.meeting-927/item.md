@@ -6,7 +6,10 @@ hidegitrepoeditlink: false
 googletitle: 'Student Council Meeting 9/27'
 googledesc: 'The CPPHS Student Council has its first regular meeting on 9/27'
 twitterenable: true
-twittercardoptions: summary
+twittercardoptions: summary_large_image
+twittershareimg: /resources/raws/branding/teaser2.png
+twittertitle: 'Student Council Meeting 9-27'
+twitterdescription: 'The first student council meeting is after school in B215'
 facebookenable: true
 ---
 
