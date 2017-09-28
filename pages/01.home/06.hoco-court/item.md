@@ -13,4 +13,4 @@ Petitions for Homecoming Court will be available on Monday September 25th on thi
 
 ===
 
-Petitions not yet available.
+[Click for a petition](petition.cpphsstuco.club)
