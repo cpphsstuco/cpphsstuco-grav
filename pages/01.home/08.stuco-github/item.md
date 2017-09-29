@@ -21,3 +21,9 @@ Find items such as:
 * Dances
 * Festivals
 * Web Pages
+
+===
+
+[https://github.com/jakejakejakejakejakejake/cpphsstuco-grav/projects](/projects) Help with open projects
+
+[https://github.com/jakejakejakejakejakejake/cpphsstuco-grav/issues](/issues) View Issues with open projects
