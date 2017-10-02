@@ -13,7 +13,7 @@ facebookenable: true
 
 Help contribute to items with our planning or our site!
 
-[Stuco Github](https://github.com/jakejakejakejakejakejake/cpphsstuco-grav/)
+[Stuco Github](https://github.com/cpphsstuco/)
 
 Find items such as:
 
