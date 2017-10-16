@@ -11,6 +11,8 @@ facebookenable: true
 
 Here is the schedule for club pictures Tuesday the 17th:
 
+===
+
 ## 1st Period
 
 * 8:00 | Band, Colorguard, Majorettes
