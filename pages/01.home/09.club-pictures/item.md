@@ -1,6 +1,6 @@
 ---
 title: 'Club Pictures'
-icon: icon-camera
+icon: camera
 hidefrompostlist: false
 continue_link: true
 hidegitrepoeditlink: false
