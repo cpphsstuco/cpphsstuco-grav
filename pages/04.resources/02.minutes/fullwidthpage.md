@@ -4,8 +4,6 @@ hidepagetitle: false
 hidegitrepoeditlink: false
 ---
 
-#### Updated the Saturday after the meeting
-
 Check this site for minutes of each meeting.
 
-[September 13th | Officer Meeting ](sept13-minutes.pdf)
+[Minutes folder on Google Drive](https://drive.google.com/drive/folders/0B8jGWrqyqfaTTE9BS3daQ0NHcjg?usp=sharing)
