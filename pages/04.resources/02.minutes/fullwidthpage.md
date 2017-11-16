@@ -6,4 +6,4 @@ hidegitrepoeditlink: false
 
 Check this site for minutes of each meeting.
 
-[Minutes folder on Google Drive](https://drive.google.com/drive/folders/0B8jGWrqyqfaTTE9BS3daQ0NHcjg?usp=sharing)
+[Minutes folder on Google Drive](https://drive.google.com/drive/folders/1PKLjkCMDoYQbnY6PdJ-z2BjPuaNQuAfJ?usp=sharing)
