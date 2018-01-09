@@ -8,6 +8,10 @@ twittercardoptions: summary
 facebookenable: true
 ---
 
+Information on the upcoming spirit week and Semi-Formal are now avaliable
+
+===
+
 Semi Spirit Week
 
 * Monday : No School (MLK Day)
