@@ -19,15 +19,17 @@ content:
     pagination: '1'
 ---
 
-### HOMECOMING
+### SemiFormal
 
-[Court Petition](https://www.cpphsstuco.club/resources/petition.pdf)
+#### Spirit Week
 
-* Person nominated for court must be a senior
-* One (1) week of petitioning, ending on September 29
-* One (1) week of fundraising for a cause, ending October 6th
+* Monday : No School (MLK Day)
+* Tuesday : Superhero Day
+* Wednesday : Celebrity look alike day
+* Thursday : Ugly Sweater Day
+* Friday : Color Wars
 
-[Homecoming Playlist Submit](/resources/playlist)
+[Semi Formal Playlist Submit](/resources/playlist)
 
 #### Information
 
