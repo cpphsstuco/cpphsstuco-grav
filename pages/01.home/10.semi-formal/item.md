@@ -14,10 +14,10 @@ Information on the upcoming spirit week and Semi-Formal are now avaliable
 
 Semi Spirit Week
 
-* Monday : No School (MLK Day)
-* Tuesday : Superhero Day
-* Wednesday : Celebrity look alike day
-* Thursday : Ugly Sweater Day
-* Friday : Color Wars
+* Monday 1-15 : No School (MLK Day)
+* Tuesday 1-16 : Superhero Day
+* Wednesday 1-17 : Celebrity look alike day
+* Thursday 1-18 : Ugly Sweater Day
+* Friday 1-19 : Color Wars
 
 [Semi Formal Playlist Submit](/resources/playlist)
